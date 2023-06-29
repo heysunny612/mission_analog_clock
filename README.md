@@ -1,6 +1,8 @@
 # [제로베이스 자바스크립트 미션과제] 2. 아날로그 시계  
 
-![23](https://user-images.githubusercontent.com/127499117/236145653-29e8e12e-d38e-43da-8719-291557e6d17a.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/127499117/236145653-29e8e12e-d38e-43da-8719-291557e6d17a.gif" alt="23">
+</p>
 
 
 
